@@ -1,1 +1,1 @@
-# Person-Detection-in-Maritime-Search-and-Rescue-Operaions
+# Person-Detection-in-Maritime-Search-and-Rescue-Operations
